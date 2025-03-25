@@ -1,7 +1,5 @@
 homepage: 'https://madebyhelio.com/'
 documentation: 'https://github.com/JeremyHelio/Helio-Attribution-Linker/blob/main/README.md'
 versions:
-  - sha: 5a0c0e8b80bb154f351e2d7453ecafe9c6d50dd3
-    changeNotes: Add error handling for failed api request
-  - sha: 798d6c2b8499a08b1cabb9e9054f82b23995b200
+  - sha: e5ce9c2ea6e295b635de4721c2a45d0e02d5851d
     changeNotes: Initial release
