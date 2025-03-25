@@ -1,5 +1,5 @@
-homepage: 'https://advertience.com/'
-documentation: 'https://github.com/advertience-inc/Attribution-Linker/blob/main/README.md'
+homepage: 'https://madebyhelio.com/'
+documentation: 'https://github.com/JeremyHelio/Helio-Attribution-Linker/blob/main/README.md'
 versions:
   - sha: 5a0c0e8b80bb154f351e2d7453ecafe9c6d50dd3
     changeNotes: Add error handling for failed api request
